@@ -105,7 +105,7 @@ dload.addEventListener('click', function() {
 })
 
 docs.addEventListener('click', function() {
-  window.location.assign("https://mininxd.vercel.app/")
+  window.location.assign("https://docs-mininxd.vercel.app/")
   })
 
 
